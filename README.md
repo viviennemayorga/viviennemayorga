@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @viviennemayorga
-- 👀 I’m interested in hospitality 
+- 👀 I’m interested in 
 - 🌱 I’m currently learning hospitality
-- 💞️ I’m looking to collaborate on canva
-- 📫 How to reach me ig:viviennenenene 
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me ig:viviennenenene
 
 <!---
 viviennemayorga/viviennemayorga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
